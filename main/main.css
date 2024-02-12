@@ -1,0 +1,25 @@
+.container {
+  width: 1320px;
+  padding: 0 20px;
+  margin: 0 auto;
+}
+.films{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+}
+.after{
+  padding: 0px;
+  padding: 7px 25px;
+  color: aliceblue;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+}
+.next{
+  padding: 0px;
+  padding: 7px 25px;
+  color: aliceblue;
+  background-color: aqua;
+  border: none;
+  border-radius: 5px;
+}
